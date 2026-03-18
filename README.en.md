@@ -2,6 +2,8 @@
 
 **Turn agents into an operating middle platform, not just a pile of chats.**
 
+> Stop making your agents run a group chat. Give them an actual org chart.
+
 ClawOS-Zhongtai is a product prototype for multi-agent organizational coordination.
 
 The goal is not merely to create more agents.
@@ -20,6 +22,11 @@ It is closer to an **organizational operating interface**:
 - a roster view
 - an employee / capability marketplace
 - and eventually themeable organizational skins such as a Three Departments / Six Ministries expression
+
+More importantly:
+
+**ClawOS-Zhongtai is not just a single interface. It is closer to an AI organization kernel.**  
+Three Departments / Six Ministries is the first expression layer that has already landed, but more worlds can grow on top of the same core next — Journey to the West, palace systems, celestial courts, and other runnable, memorable theme packs.
 
 ## How this differs from a normal agent dashboard
 A normal agent dashboard often answers questions like:
@@ -95,6 +102,7 @@ Marketplace starts answering:
 - **Operator-friendly**: the interface is meant to help people reason about system state, organizational capacity, and assignment options.
 - **Themeable expression**: Three Departments / Six Ministries is a natural expression layer, but it should not leak into the core abstraction.
 - **Capabilities can be surfaced as units**: not just “agents are running,” but “capabilities can be hired, packaged, and organized.”
+- **One kernel, many worlds**: today Three Departments / Six Ministries, tomorrow Journey to the West, palace systems, celestial courts, and more.
 
 ## Use cases
 - **Multi-agent organization cockpit**: see the system as an organization rather than scattered sessions.
@@ -142,6 +150,19 @@ That is the gap ClawOS-Zhongtai is aiming at.
 - builders who want agents to behave more like roles or posts than isolated bots
 - product thinkers exploring middle-platform, roster, or marketplace models for AI systems
 - people who want to express organization design through themed interfaces such as Three Departments / Six Ministries
+
+## Why it is worth watching now
+
+Because this is starting to become more than “another agent dashboard.”
+
+It is where three things are beginning to converge:
+- an AI middle platform that feels more like an organization system
+- a product shell that can hold roster, marketplace, and theme layers together
+- a platform entry point for future worlds such as Three Departments / Six Ministries, Journey to the West, palace systems, and celestial courts
+
+In other words:
+
+**what is worth following here is not just one repo, but a whole direction: an AI kernel growing across multiple organizational worlds.**
 
 ## Product direction
 
