@@ -21,6 +21,26 @@ It is closer to an **organizational operating interface**:
 - an employee / capability marketplace
 - and eventually themeable organizational skins such as a Three Departments / Six Ministries expression
 
+## How this differs from a normal agent dashboard
+A normal agent dashboard often answers questions like:
+- which model is running
+- which conversation moved
+- which task failed
+
+ClawOS-Zhongtai is trying to answer something more structural:
+- what roles exist in the organization
+- who is carrying which responsibility
+- how capabilities get packaged into the org
+- how an operator manages a system like an organization instead of chasing isolated sessions
+
+So the shift is from pure activity tracking toward **organization design**.
+
+## Current core modules
+- **Dashboard**: overall control posture
+- **Roster**: organization and role view
+- **Marketplace**: capability packaging and hiring view
+- **Theme Layer**: where systems like Three Departments / Six Ministries belong, without hard-coding them into the kernel
+
 ---
 
 ## What to look at first
