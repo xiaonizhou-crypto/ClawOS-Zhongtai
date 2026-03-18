@@ -97,6 +97,23 @@ Marketplace starts answering:
 
 ---
 
+## Repo logic
+
+The clean long-term structure is not “put every theme pack into one repo.”
+
+A better split is:
+- **ClawOS-Zhongtai** for the middle-platform / kernel / product-platform story
+- **theme-pack repos** for runnable, demoable, marketable worlds
+
+That means:
+- Zhongtai = organization kernel / platform repo
+- 三省六部 = the first landed theme pack
+
+See also:
+- `docs/REPO-STRUCTURE.md`
+- `docs/ECOSYSTEM.md`
+- `docs/THEME-LAYER.md`
+
 ## Features
 - **Organization-first, not prompt-first**: the interesting unit is not just a clever agent, but how that agent is structured into a system.
 - **Middle-platform framing**: overview, roster, and marketplace live inside one product story instead of feeling like disconnected tools.

@@ -95,6 +95,23 @@ ClawOS-Zhongtai 更想回答的是：
 
 ---
 
+## 仓关系 / Repo Logic
+
+当前最合理的结构不是把所有主题包都塞进一个仓里。
+
+更清楚的做法是：
+- **ClawOS-Zhongtai** 负责承载中台 / 内核 / 平台叙事
+- **主题包仓** 负责承载一个个可安装、可展示、可传播的世界
+
+也就是说：
+- Zhongtai = organization kernel / platform repo
+- 三省六部 = 第一套已经落地的主题组织包
+
+更多见：
+- `docs/REPO-STRUCTURE.md`
+- `docs/ECOSYSTEM.md`
+- `docs/THEME-LAYER.md`
+
 ## 产品亮点
 - **组织优先，不是 prompt 优先**：重点不是某个 agent 有多聪明，而是它如何被编入一个可管理的组织结构。
 - **中台化视角**：把总览、岗位 roster、能力市场放到同一个产品叙事里，而不是拆成零碎工具。
