@@ -6,20 +6,26 @@
 而是第一套已经真正跑出来的主题组织包：
 
 ## 当前主线
+### 多主题机构 / Multi-theme organization packs
+当前更明确的结构是：
+- `themes/sansheng-pack/` → 三省六部表达层
+- `themes/hougong-pack/` → 后宫 / 内廷表达层
+- 中性治理内核保持独立，不被任一主题写死
+
 ### 三省六部 / Sansheng Pack
-- 安装一个组织，而不是一个 bot
-- 已有 roster / dashboard / marketplace 实机图
-- 已有 Lite / Standard / Full 三档预设
-- 已有 install / verify / uninstall
+- 更偏正式行政体系
+- 强调中书 / 门下 / 尚书与六部的职责秩序
+- 适合更直接的国家机构 / 官署感表达
+- 入口：`themes/sansheng-pack/README.md`
 
 ### 后宫 / Hougong Theme Pack
 - 已完成第一套主位层 + 司处层主题人格包
 - 已有角色映射、主位映射、统一语气与称呼规则
 - 已有 14 张可直接落到主题角色上的头像资产
-- 已有 `APPLY-TO-SANSHENG.md` 与 `SANSHENG-MIGRATION-CHECKLIST.md`
+- 已有 `APPLY-TO-SANSHENG.md`、`SANSHENG-MIGRATION-CHECKLIST.md`、`PACK-MANIFEST.md`
 - 入口：`themes/hougong-pack/README.md`
 
-这个仓暂时保留为历史入口与占位说明，避免继续把“中台母叙事”和“具体 pack 商品化”混在一起。
+这个仓当前更像主题组织包总入口，而不是只讲某一个单独世界观。
 
 ## 现在的判断
 更稳的结构是：
