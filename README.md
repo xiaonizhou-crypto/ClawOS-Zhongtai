@@ -12,6 +12,13 @@
 - 已有 Lite / Standard / Full 三档预设
 - 已有 install / verify / uninstall
 
+### 后宫 / Hougong Theme Pack
+- 已完成第一套主位层 + 司处层主题人格包
+- 已有角色映射、主位映射、统一语气与称呼规则
+- 已有 14 张可直接落到主题角色上的头像资产
+- 已有 `APPLY-TO-SANSHENG.md` 与 `SANSHENG-MIGRATION-CHECKLIST.md`
+- 入口：`themes/hougong-pack/README.md`
+
 这个仓暂时保留为历史入口与占位说明，避免继续把“中台母叙事”和“具体 pack 商品化”混在一起。
 
 ## 现在的判断
