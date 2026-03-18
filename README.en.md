@@ -69,6 +69,33 @@ Marketplace starts answering:
 
 ---
 
+## Why this matters now
+
+A lot of teams already have agents.
+
+What they increasingly do not have is:
+- structure
+- visible role design
+- operational coordination
+- capability packaging
+- an interface that lets operators manage a system like an organization
+
+In other words, the question is shifting from:
+
+"How do we run agents?"
+
+to:
+
+**"How do we organize them?"**
+
+That is the gap ClawOS-Zhongtai is aiming at.
+
+## Who this is for
+- teams exploring multi-agent organizational systems
+- builders who want agents to behave more like roles or posts than isolated bots
+- product thinkers exploring middle-platform, roster, or marketplace models for AI systems
+- people who want to express organization design through themed interfaces such as Three Departments / Six Ministries
+
 ## Product direction
 
 ClawOS-Zhongtai is not trying to become a fancier AI page.
@@ -90,11 +117,11 @@ A more accurate description is:
 ---
 
 ## What comes next
-- bilingual polish
 - brand artwork / cover image
 - organizational structure explanation
 - roadmap
 - clearer module breakdown
+- further bilingual polish
 
 ---
 
