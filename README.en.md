@@ -89,6 +89,33 @@ Marketplace starts answering:
 
 ---
 
+## Features
+- **Organization-first, not prompt-first**: the interesting unit is not just a clever agent, but how that agent is structured into a system.
+- **Middle-platform framing**: overview, roster, and marketplace live inside one product story instead of feeling like disconnected tools.
+- **Operator-friendly**: the interface is meant to help people reason about system state, organizational capacity, and assignment options.
+- **Themeable expression**: Three Departments / Six Ministries is a natural expression layer, but it should not leak into the core abstraction.
+- **Capabilities can be surfaced as units**: not just “agents are running,” but “capabilities can be hired, packaged, and organized.”
+
+## Use cases
+- **Multi-agent organization cockpit**: see the system as an organization rather than scattered sessions.
+- **Roster / role platform**: treat agents as roles, posts, or organizational units.
+- **Capability marketplace**: surface reusable capabilities as things that can be plugged into the org.
+- **Three Departments / Six Ministries products**: build more structured organizational interfaces with stronger symbolic language.
+- **AI team product demos**: useful for internal demos, external storytelling, and product direction validation.
+
+## FAQ
+### Is this an agent framework?
+No. It is closer to an organizational / operational / presentation layer product than a low-level model framework.
+
+### How is this different from a normal control console?
+A normal console is more about monitoring. ClawOS-Zhongtai leans more toward role structure, capability packaging, marketplace framing, and operator-facing organization design.
+
+### Is Three Departments / Six Ministries just a skin?
+It is part of the expression layer, but not in a shallow costume sense. More accurately, it is an organizational language that should serve structure, not replace it.
+
+### Will the product only ever have this one theme?
+No. Three Departments / Six Ministries is a strong natural direction, but the long-term product should support multiple organizational skins and role systems.
+
 ## Why this matters now
 
 A lot of teams already have agents.
