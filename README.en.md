@@ -2,6 +2,7 @@
 
 **Turn agents into an operating middle platform, not just a pile of chats.**
 
+> Install an organization, not just a bot.  
 > Stop making your agents run a group chat. Give them an actual org chart.
 
 ClawOS-Zhongtai is a product prototype for multi-agent organizational coordination.
