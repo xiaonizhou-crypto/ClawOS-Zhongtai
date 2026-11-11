@@ -20,7 +20,7 @@
 
 ## 对应原图来源
 来源目录：
-`/Users/tricia/.openclaw/workspace-clawos-pm/tmp/harem-power-structure-14-beauty-2026-03-18`
+项目制作阶段的本地素材目录（未随仓库提供）；公开资源见本主题的 `assets/avatars/`。
 
 原图 → 当前文件：
 - `01-empress-zhonggong.png` → `huanghou.png`

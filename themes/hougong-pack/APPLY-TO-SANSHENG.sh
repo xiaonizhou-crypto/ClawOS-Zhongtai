@@ -2,7 +2,7 @@
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")" && pwd)"
-TARGET_DEFAULT="/Users/tricia/.openclaw/workspace-xiaokui/clawos-pack-sansheng"
+TARGET_DEFAULT="${CLAWOS_SANSHENG_DIR:-$ROOT/../../../clawos-pack-sansheng}"
 TARGET="$TARGET_DEFAULT"
 MODE="preview"
 
